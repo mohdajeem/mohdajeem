@@ -64,13 +64,16 @@ I'm a passionate software developer focused on building real-world, impactful te
 
 ---
 
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-ajeem-552822256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohdajeem2003@gmail.com">
+  <a href="mailto:YOUR-EMAIL">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
