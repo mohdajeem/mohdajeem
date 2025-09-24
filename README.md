@@ -32,6 +32,12 @@ I'm a passionate software developer focused on building real-world, impactful te
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
 
 ---
 
@@ -48,11 +54,11 @@ I'm a passionate software developer focused on building real-world, impactful te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/kashishpratap9">
-    <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/mohdajeem">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohdajeem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/kashishpratap9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/mohdajeem">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdajeem&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -61,10 +67,10 @@ I'm a passionate software developer focused on building real-world, impactful te
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kashish-pratap-07547b254/">
+  <a href="https://www.linkedin.com/in/mohd-ajeem-552822256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kashishpratap4@gmail.com">
+  <a href="mailto:mohdajeem2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
