@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 I'm a passionate software developer focused on building real-world, impactful tech solutions. I enjoy working on projects involving backend development, automation, and AI integrations.
-- 💻 Currently exploring: **Automation tools**, **JavaScript**, **Django**, and **AWS Cloud Services**
-- ⚙️ Learning DevOps tools like **Docker**, **CI/CD**, **GitHub Actions**
-- 🧠 Solved 400+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
-- 📬 Reach me at: `kashishpratap4@gmail.com`
+- 💻 Currently exploring: **Spring** , **Spring Boot**
+- ⚙️ Learning DevOps tools like **Docker**, **CI/CD**, **GitHub Actions** , **Jenkins**
+- 🧠 Solved 500+ LeetCode problems | ⭐ 5-Star Java on HackerRank
+- 📬 Reach me at: `mohdajeem2003@gmail.com`
 
 ---
 
