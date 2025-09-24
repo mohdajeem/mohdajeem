@@ -45,9 +45,9 @@ I'm a passionate software developer focused on building real-world, impactful te
 
 | Project | Description |
 |--------|-------------|
-| [🧠 StudyBuddy](https://github.com/kashishpratap9/StudyBuddy) | An AI study assistant using Streamlit and LangChain |
-| [🩺 AI Medical Recommender](https://github.com/kashishpratap9/AI-Medical-Recommendation-System) | Suggests treatments based on symptoms using ML & Streamlit |
-| [📒 NoteStack](https://github.com/kashishpratap9/NoteStack) | Smart note-taking and task management app built with Django |
+| [ Twitter Sentimental Analysis](https://github.com/mohdajeem/Twitter-Sentiment-Analysis) | A machine learning project that analyzes tweets to classify them as positive or negative, providing insights into public sentiment on Twitter |
+| [ N Queens Visualizer](https://github.com/mohdajeem/N-Queen-Visualizer) | An interactive visualizer that demonstrates solutions to the N-Queens puzzl |
+| [Snap Stack](https://github.com/mohdajeem/SnapStack) | An AI-powered micro-frontend playground that generates and previews React components and pages in real time |
 
 ---
 
