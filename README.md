@@ -54,26 +54,23 @@ I'm a passionate software developer focused on building real-world, impactful te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mohdajeem">
-    <img src="https://github-readme-stats.vercel.app/api?username=aditi2003b&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/kashishpratap9">
+    <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/mohdajeem">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi2003b&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/kashishpratap9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
-
-
----
 
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-ajeem-552822256/">
+  <a href="https://www.linkedin.com/in/kashish-pratap-07547b254/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohdajeem2003@gmail.com">
+  <a href="mailto:kashishpratap4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
