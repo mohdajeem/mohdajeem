@@ -55,9 +55,10 @@ I'm a passionate software developer focused on building real-world, impactful te
     <img src="https://github-readme-stats.vercel.app/api?username=mohdajeem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/mohdajeem">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdajeem&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=mohdajeem&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+
 
 
 
