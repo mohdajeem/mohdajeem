@@ -55,12 +55,13 @@ I'm a passionate software developer focused on building real-world, impactful te
 
 <p align="center">
   <a href="https://github.com/mohdajeem">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohdajeem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aditi2003b&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/mohdajeem">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdajeem&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi2003b&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ---
 
@@ -72,7 +73,7 @@ I'm a passionate software developer focused on building real-world, impactful te
   <a href="https://www.linkedin.com/in/mohd-ajeem-552822256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:mohdajeem2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
